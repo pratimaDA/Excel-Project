@@ -2,9 +2,10 @@
 
 ## **Dataset Used for Analysis**
 
-**4 CSV files** containing mocked data of **AtliQ Technologies** used for learning purposes in the **Data Analytics Bootcamp** provided by **Codebasics**.
+**5 CSV files** containing mocked data of **AtliQ Technologies** used for learning purposes in the **Data Analytics Bootcamp** provided by **Codebasics**.
 
 * **fact_sales_monthly** *(date, product_code, customer_code, qty, net_sales_amount)*
+* **fact_sales_monthly_with_cost** *(date, product_code, customer_code, qty, net_sales_amount, freight_cost, manufacturing_cost)*
 * **dim_customer** *(customer_code, customer_name, market, platform, channel)*
 * **dim_market** *(market, sub_zone, region)*
 * **dim_product** *(product_code, product_name, division, segment, category, variant)*
@@ -89,6 +90,7 @@ To calculate and analyze key business KPIs required for a Profit & Loss (P&L) st
 **Dataset Used:**
 
 * fact_sales_monthly
+* fact_sales_monthly_with_cost
 * dim_market
 
 ---
