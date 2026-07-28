@@ -1,8 +1,28 @@
 ----------------------------------**-Excel Project reports-**------------------------------
 
+Dataset used for analysis :
+**4 **CSV files containing mocked data of AtliQ technology used for lerning purpose in the Data Analytics Bootcamp provided by Codebasics.
+
+fact_sales_monthly (date,product_code,customer_code,qty,net_sales_amount)
+dim_customer (customer_code,customer_name,market,platform,channel)
+dim_market (market,sub_zone,region)
+dim_product (product_code,product_name,division,segment,category,varient)
+
+
 1- Customer Net Sales Performance Report :
 
 Objective of the above report-
+
+To find the total Sales done by all the customers in a country. There was filter to see the total sales based on a particular region or market selected.
+
+Tech Skills learned in it :
+Perform ETL.
+Use of SUM() formula and pivot table.
+Basic features of excel to apply conditional formatting and apply data bars to show the value as a visual.
+
+Analytical Skills learned : What background calculation is needed to answer a business question that in which country we should increase our business or which country is performing best in terms of sales.
+
+Dataset Used : fact_sales_monthly and dim_market 
 
 2- Market Performance Target Report :
 
