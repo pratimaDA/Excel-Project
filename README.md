@@ -49,6 +49,7 @@ To calculate values for some key business KPIs.
 Tech Skills Learned:
 ETL
 Use of SUM() , SUMIFs() , IF() , IFERROR()
+Create Date table USING DAX 
 Use of pivot table
 Conditional Formatting rules 
 
@@ -56,6 +57,21 @@ Analytical Skills learned:
 1- What are some key business KPIs which are needed in a P&L report.
 2- What each KPI number tells about the business for example higher COGS value shows we need some optimizations in our processes so that operational costs can be reduced.
 
+Dataset used: fact_sales_monthly , dim_market
+
 4- Sales Market Report :
 
 Objective of the above report-
+
+To show net sales for each customer in a market.
+
+Tech Skills learned:
+ETL
+Use of SUM() , SUMIFs()
+Use of pivot table
+Conditional Formatting rules 
+
+Analytical Skills learned: 
+1- How can we analyse which customer is performing good for each market to make changes in our deals with them for example to give them some discounts sothat they can become our loyal good customers.
+
+Dataset used: fact_sales_monthly , dim_market
