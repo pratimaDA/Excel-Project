@@ -15,10 +15,11 @@ Objective of the above report-
 
 To find the total Sales done by all the customers in a country. There was filter to see the total sales based on a particular region or market selected.
 
-Tech Skills learned in it :
-Perform ETL.
-Use of SUM() formula and pivot table.
-Basic features of excel to apply conditional formatting and apply data bars to show the value as a visual.
+Tech Skills learned:
+ETL.
+Use of SUM() formula.
+Use of Pivot Table
+Conditional formatting and apply data bars to show the value as a visual.
 
 Analytical Skills learned : What background calculation is needed to answer a business question that in which country we should increase our business or which country is performing best in terms of sales.
 
@@ -27,6 +28,17 @@ Dataset Used : fact_sales_monthly and dim_market
 2- Market Performance Target Report :
 
 Objective of the above report-
+
+To find out performance of each market in year 2019,2020 and 2021 and compare it with given target.
+Tech Skills learned:
+ETL 
+USE of SUMIFs() 
+Use of Pivot table 
+Formatting Rules
+
+Analytical Skills learned : How to calculate sales per year and compare it with target to show performance of the market.
+
+Dataset used : fact_sales_monthly and dim_market 
 
 3- P&L Report :
 
